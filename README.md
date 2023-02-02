@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Creator)`**
 
-Hello my name is Benigno but you can call me Ben. I am a fullstack web developer. My love of web development started back in 2015 when I started teaching myself to code with online resources. I wanted to take it to the next level so over the last year I've completed a fullstack bootcamp along with many online courses. If you want to get to know more about me I've attached my personal portfolio site as well as my socials. Happy coding!!
+Hello, my name is Benigno but you can call me Ben. I am a fullstack web developer. My love of web development started back in 2015 when I started teaching myself to code with online resources. I wanted to take it to the next level so over the last year I've completed a fullstack bootcamp along with many online courses. If you want to get to know more about me I've attached my personal portfolio site as well as my socials. Happy coding!!
 
 
 <p align="center">
@@ -37,7 +37,7 @@ Hello my name is Benigno but you can call me Ben. I am a fullstack web developer
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <br />
 
----
+#
 
 <!--
 **Bennyno/Bennyno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
