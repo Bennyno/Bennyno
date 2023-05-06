@@ -1,4 +1,4 @@
-### Benigno Fernandez 👋
+### Ben Fernandez 👋
 
 **`Digital Craftsman (Developer/Creator)`**
 
