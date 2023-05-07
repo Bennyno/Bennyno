@@ -6,13 +6,13 @@ Hello, my name is Benigno but you can call me Ben. I am a full stack web develop
 
 
 <p align="center">
-   <a href="https://my-codefolio.netlify.app/"><img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/17125223/216424885-c1436039-0b59-4f6d-aff3-2c986669daaa.png"/></a>
+   <a href="https://my-codefolio.netlify.app/"><img width="32px" alt="Twitter" title="Portfolio" src="https://user-images.githubusercontent.com/17125223/216424885-c1436039-0b59-4f6d-aff3-2c986669daaa.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/Ben_b3nn"><img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/17125223/216424639-63f8b628-836a-4153-b306-d2b442f0b64f.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://discordapp.com/users/BenBen#9590" alt="Discord" title="Discord"><img width="32px" src="https://user-images.githubusercontent.com/17125223/216424546-b09d1cd0-1773-4499-b1eb-8507230a55b9.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/benigno-fernandez-01a16ab2/"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://user-images.githubusercontent.com/17125223/216424105-c26e96db-d9d7-4b75-8157-94cc5f574280.png"></a>
+  <a href="https://www.linkedin.com/in/benigno-fernandez/"><img width="32px" alt="Dev.to" title="LinkedIn" src="https://user-images.githubusercontent.com/17125223/216424105-c26e96db-d9d7-4b75-8157-94cc5f574280.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
