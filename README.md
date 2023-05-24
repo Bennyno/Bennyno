@@ -6,7 +6,7 @@ Hello, my name is Benigno but you can call me Ben. I am a full stack web develop
 
 
 <p align="center">
-   <a href="https://my-codefolio.netlify.app/"><img width="32px" alt="Twitter" title="Portfolio" src="https://user-images.githubusercontent.com/17125223/216424885-c1436039-0b59-4f6d-aff3-2c986669daaa.png"/></a>
+   <a href="https://mypersonalprojects.netlify.app/"><img width="32px" alt="Twitter" title="Portfolio" src="https://user-images.githubusercontent.com/17125223/216424885-c1436039-0b59-4f6d-aff3-2c986669daaa.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/Ben_b3nn"><img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/17125223/216424639-63f8b628-836a-4153-b306-d2b442f0b64f.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
