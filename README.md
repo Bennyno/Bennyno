@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Creator)`**
 
-Hello, my name is Benigno but you can call me Ben. I am a full stack web developer based in New York. My love of web development started back in 2015 when I started teaching myself to code with online resources. Over the last few years I've expanded my skills and I'm ready and excited to what the future of tech holds. If you want to get to know more about me, I've attached my personal portfolio site as well as my socials. Happy coding!!
+Hello, my name is Benigno but you can call me Ben. I am a full stack web developer based in New York. My love of web development started back in 2015 when I started teaching myself to code with online resources. Over the last few years I've expanded my skills and I'm ready and excited for what the future of tech holds. If you want to get to know more about me, I've attached my personal portfolio site as well as my socials. Happy coding!!
 
 
 <p align="center">
